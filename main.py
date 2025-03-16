@@ -1,2 +1,3 @@
-print("Farheen Ali")
+("Farheen Ali"print)
 print("ali")
+("Farheen Ali"print)
